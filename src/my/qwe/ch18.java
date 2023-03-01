@@ -8,6 +8,7 @@ public class ch18 {
 		if(i%3==0) {
 			System.out.println(count + "번쨰 3의 배수 " + i);
 			count += 1;
+			
 		}
 	}
 	}
